@@ -13,5 +13,3 @@ This is a lab project on manufacturing ceramic parts from **LHS-1 lunar regolith
 - 🇬🇧 English: [`DLP_Lunar_Regolith_ISRU_Report_Group5_EN.pdf`](./DLP_Lunar_Regolith_ISRU_Report_Group5_EN.pdf) (translation; some figure labels remain in Italian)
 - 🇮🇹 Italian (original): [`DLP_Lunar_Regolith_ISRU_Report_Group5_IT.pdf`](./DLP_Lunar_Regolith_ISRU_Report_Group5_IT.pdf)
 
-**Authors:** F. A. Caporizzi, L. Finelli, D. Grisendi, M. Guida, M. Lanzani, P. Mansueti, E. Manzini, L. Marchini, F. Mariotti, F. Martinelli, S. Micotti, M. C. Moltrasio
-**Instructor:** Prof. A. M. Grande
